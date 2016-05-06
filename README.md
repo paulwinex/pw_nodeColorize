@@ -3,7 +3,7 @@
 Used inside Houdini for colorize nodes.
 
 ### Install
-1. Copy pw_nodeColorize to scripts folder
+1. Copy pw_nodeColorize to scripts folder (rename folder to pw_nodeColorize if need)
 2. Copy code to new shelf tool:
 
 ```python
